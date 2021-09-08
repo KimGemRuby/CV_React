@@ -33,6 +33,30 @@ const Contact = () => {
                         </li>
                     </ul>
                 </div>
+                <div className="socialNtework">
+                    <ul>
+                        <a href="https:www.linkdin.fr" target="_blank"
+                        rel="noopener noreferrer">
+                            <h4>Linkedin</h4>
+                            <i className="fab fa-linkedin"></i>
+                        </a>
+                        <a href="http://www.github.com" taget="_blank"
+                            rel="noopener noreferrer">
+                            <h4>Github</h4>
+                            <i className="fab fa-github"></i>
+                        </a>
+                        <a href="https://www.twitter.com" taaget="_blank"
+                        rel="noopener noreferrer">
+                            <h4>twitter</h4>
+                            <i className="fab fa-twitter"></i>
+                        </a>
+                        <a href="https://www.codepen.fr" target="_blank"
+                        rel="noopener noreferrer">
+                            <h4>CodePen</h4>
+                            <i className="fab fa-codepen"></i>
+                        </a>
+                    </ul>
+                </div>
             </div>
         </div>
     );
