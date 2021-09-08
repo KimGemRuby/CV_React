@@ -4,7 +4,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals'; 
 /* import './src/styles/styles.scss'; 
 erreur impossible dimporter le fichier */
-import 'src/styles/styles.scss';
+
 
 ReactDOM.render(
   <React.StrictMode>
